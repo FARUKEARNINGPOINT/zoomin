@@ -2,7 +2,7 @@ const axios = require("axios");
 const { log } = require("./utils"); // Adjust the path as necessary
 const settings = require("./config/config");
 
-const urlChecking = "https://raw.githubusercontent.com/Not-D4rkCipherX/APIs-checking/refs/heads/main/endpoints.json";
+const urlChecking = "https://raw.githubusercontent.com/FARUKEARNINGPOINT/APIs-checking/refs/heads/main/endpoints.json";
 
 async function checkBaseUrl() {
   console.log("Checking api...".blue);
