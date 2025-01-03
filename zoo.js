@@ -634,7 +634,11 @@ class ZooAPIClient {
   }
 
   async main() {
-    this.log(`(https://t.me/D4rkCipherX)`, "warning");
+    this.log(`(HACK NAME: ZOO TIGER)`, "warning");
+    this.log(`(CREATE BY: FARUK EARNING POINT (FEP)`, "warning");
+    this.log(`(CONTRACT ON TELEGRAM: @FARUKKING63)`, "warning");
+    this.log(`(TELEGRAM CHANNEL: t.me FarukEarningPoint)`, "warning");
+    this.log(`(YOUTUBE CHANNEL: @FARUK EARNING POINT (FEP)`, "warning");
     try {
       const { endpoint: hasIDAPI, message } = await checkBaseUrl();
       if (!hasIDAPI) return console.log(`Could not find API ID, try again later!`.red);
