@@ -1,1 +1,1 @@
-
+user=%7B%22id%22%3A6410044557%2C%22first_name%22%3A%22FARUK%20EARNING%22%2C%22last_name%22%3A%22POINT%20%28FEP%29%22%2C%22username%22%3A%22FARUKKING63%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FW1bT8exVfppe6H5D1pZRWe_MpaqP1HK_UbG_ojZK9pTcqMGRlbWs7qKLbLPAb59p.svg%22%7D
