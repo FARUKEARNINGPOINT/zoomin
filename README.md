@@ -15,10 +15,10 @@ pkg install nodejs-lts
 pkg install git
 ```
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/Zoo-Bot.git
+   git clone https://github.com/FARUKEARNINGPOINT/zoomin.git
    ```
    ```bash
-   cd Zoo-Bot
+   cd zoomin
    ```
 
 2. **Instal Requirements:**
