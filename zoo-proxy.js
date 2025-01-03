@@ -831,7 +831,11 @@ async function main() {
       }
     }
     await sleep(3);
-    console.log("(https://t.me/S4rkCipherX)".yellow);
+    console.log("(HACK NAME: ZOO MINE)".green);
+    console.log("(CREATE BY: FARUK EARNING POINT (FEP)".green);
+    console.log("(CONTRACT ON TELEGRAM: @FARUKKING63)".green);
+    console.log("(TELEGRAM CHANNEL: t.me FarukEarningPoint)".green);
+    console.log("(YOUTUBE CHANNEL: @FARUK EARNING POINT (FEP)".green);            
     console.log(`=============Complete all accounts | Wait ${settings.TIME_SLEEP} minutes=============`.magenta);
     await sleep(settings.TIME_SLEEP * 60);
   }
