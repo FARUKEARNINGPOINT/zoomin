@@ -31,14 +31,14 @@ async function getBaseApi(url) {
       return {
         endpoint: null,
         message:
-          "Script By (https://t.me/D4rkCipherX)",
+          "Script By (https://t.me/FarukEarningPoint)",
       };
     }
   } catch (e) {
     return {
       endpoint: null,
       message:
-        "Script By (https://t.me/D4rkCipherX)",
+        "Script By (https://t.me/FarukEarningPoint)",
     };
   }
 }
